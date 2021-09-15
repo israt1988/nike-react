@@ -1,0 +1,36 @@
+.nike-background{
+    background-color: #FEEAE9;
+}
+.bye-now-button{
+    width: 170px;
+    height: 60px;
+    border-radius: 10px;
+    color: #590dd3;
+    background: linear-gradient(180deg, #7158ff -0.01%, #1f0c74 99.99%);
+    
+}
+.text-color{
+    color: darkorange;
+}
+.head-style{
+    color: #363958;
+    font-size: 48px;
+    font-weight: 700;
+}
+.card-style{
+ color: #363958;
+ font-size: 24px;
+ font-weight: bold;
+}
+.image-bg{
+    background-color: rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+.image-icon{
+    width: 78px;
+    height: 82px;
+}
+.icon-thamble{
+    width: 600px;
+    height: 350px;
+}
